@@ -5,9 +5,6 @@
     "email": "noisyboy.rh26@gmail.com"
   },
   "records": {
-    "NS": [
-      "april.ns.cloudflare.com",
-      "kaiser.ns.cloudflare.com"
-    ]
+    "CNAME": "2233bf00-a0a7-43b3-8344-1dba87a69ba6.cfargotunnel.com"
   }
 }
